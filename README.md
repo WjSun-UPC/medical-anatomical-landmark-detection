@@ -3,11 +3,15 @@
 Please contact sunwenjian@csj.uestc.edu.cn for the dataset. We will get back to you shortly. The email should contain the following information.
 
 Name: (Tell us who you are.)
+
 Affiliation: (The name/url of your institution or university, etc.)
+
 Job Title: (E.g., Professor, Associate Professor, PhD, etc.)
+
 Email: (Dataset will be sent to this email.)
+
 How to use: (Only for non-commercial use.)
 
-Note: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@nankai.edu.cn). If not, you need to explain why.
+Note: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@uestc.edu.cn). If not, you need to explain why.
 
 
